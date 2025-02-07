@@ -15,7 +15,7 @@ dependencies:
   - tqdm
   - pip:
     #- submodules/simple-knn
-    - submodules/diff-gaussian-rasterization
+    #- submodules/diff-gaussian-rasterization
     - opencv-python==4.8.1.78
     - munch
     - trimesh
